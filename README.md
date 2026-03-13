@@ -25,10 +25,10 @@
   <a href="https://bend1ct.itch.io">
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://github.com/bend1ct">
+  <a href="https://github.com/bendictjoseph-dev">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/benedict">
+  <a href="https://linkedin.com/in/benedictjoseph-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
