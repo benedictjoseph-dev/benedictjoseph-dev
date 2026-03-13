@@ -61,27 +61,18 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>🎮 Game Dev</h3>
-<img src="https://skillicons.dev/icons?i=unity,cs" />
-<br/><br/>
-<p>Unity 2D/3D • C# • Mobile • Slot/Puzzle Games • Animation</p>
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=cs" />
 </td>
 <td width="50%" align="center">
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=cs,python,js,html,css" />
+<h3>🎮 Engine & Tools</h3>
+<img src="https://skillicons.dev/icons?i=unity,vscode,blender" />
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,androidstudio" />
-<br/><br/>
-</td>
-<td width="50%" align="center">
+<td width="100%" align="center" colspan="2">
 <h3>📦 Platforms</h3>
-<img src="https://skillicons.dev/icons?i=github,firebase" />
-<br/>
-<p>WebGL • itch.io • Android</p>
+<p>Android • WebGL • Windows</p>
 </td>
 </tr>
 </table>
