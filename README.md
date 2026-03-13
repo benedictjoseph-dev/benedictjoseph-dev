@@ -57,21 +57,34 @@
 
 ## 🛠️ Skills
 
-<p align="center">
+<div align="center">
 
-<h4>🎮 What I work with daily</h4>
-<img src="https://skillicons.dev/icons?i=unity,cs,vscode,blender" />
-<br/><br/>
+**🎮 Engine & Language**
 
-<h4>📦 Ship targets</h4>
-<p>Android &nbsp;•&nbsp; WebGL &nbsp;•&nbsp; Windows</p>
+<img src="https://skillicons.dev/icons?i=unity,cs" />
 
-<h4>📖 Currently picking up</h4>
-<img src="https://skillicons.dev/icons?i=git,github" />
 <br/>
-<p><sub>Multiplayer networking (Unity Netcode / Photon) is next on the list</sub></p>
 
-</p>
+**🧰 Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,blender,git,github" />
+
+<br/>
+
+**📦 Build Targets**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br/>
+
+**📖 Currently Learning**
+
+![Unity Netcode](https://img.shields.io/badge/Unity_Netcode-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Photon](https://img.shields.io/badge/Photon-004FFF?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
