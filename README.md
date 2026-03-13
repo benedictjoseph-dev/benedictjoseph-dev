@@ -91,10 +91,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=benedictjoseph-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=benedictjoseph-dev&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedictjoseph-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=benedictjoseph-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=benedictjoseph-dev&theme=tokyonight&hide_border=true&ring=bf91f3&fire=ff9966&currStreakLabel=70a5fd" alt="Streak" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=benedictjoseph-dev&theme=tokyo-night&hide_border=true&area=true&color=70a5fd&line=bf91f3&point=ff9966" alt="Activity Graph" width="100%" />
+
 </div>
