@@ -15,7 +15,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/📍_Kochi,_Kerala,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:bend1ct@email.com"><img src="https://img.shields.io/badge/📧_reach_me-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:benedictjoseph.dev@gmail.com"><img src="https://img.shields.io/badge/📧_benedictjoseph.dev@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🕹️_Open_to_Unity_Roles-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -25,10 +25,10 @@
   <a href="https://bend1ct.itch.io">
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://github.com/bendictjoseph-dev">
+  <a href="https://github.com/benedictjoseph-dev">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/benedictjoseph-dev">
+  <a href="https://www.linkedin.com/in/benedictjoseph-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
@@ -93,15 +93,9 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=bend1ct&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benedictjoseph-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=benedictjoseph-dev&theme=dark&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedictjoseph-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
-## ❤️ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
