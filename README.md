@@ -58,24 +58,19 @@
 ## 🛠️ Skills
 
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=cs" />
-</td>
-<td width="50%" align="center">
-<h3>🎮 Engine & Tools</h3>
-<img src="https://skillicons.dev/icons?i=unity,vscode,blender" />
-</td>
-</tr>
-<tr>
-<td width="100%" align="center" colspan="2">
-<h3>📦 Platforms</h3>
-<p>Android • WebGL • Windows</p>
-</td>
-</tr>
-</table>
+
+<h4>🎮 What I work with daily</h4>
+<img src="https://skillicons.dev/icons?i=unity,cs,vscode,blender" />
+<br/><br/>
+
+<h4>📦 Ship targets</h4>
+<p>Android &nbsp;•&nbsp; WebGL &nbsp;•&nbsp; Windows</p>
+
+<h4>📖 Currently picking up</h4>
+<img src="https://skillicons.dev/icons?i=git,github" />
+<br/>
+<p><sub>Multiplayer networking (Unity Netcode / Photon) is next on the list</sub></p>
+
 </p>
 
 ---
