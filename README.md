@@ -10,7 +10,7 @@
 <div align="left">
 
   <p>
-    I build games in Unity - mostly 2D/3D mobile stuff, with a soft spot for puzzle mechanics and satisfying animations.<br/>
+    I build games in Unity — mostly 2D/3D mobile stuff, with a soft spot for puzzle mechanics and satisfying animations.<br/>
     Got a couple of shipped titles on itch.io, some freelance work across different genres, and currently looking for my next Unity role.
   </p>
   <p>
@@ -44,12 +44,19 @@
 <tr>
 <td width="50%" align="center">
 <h3><a href="https://bend1ct.itch.io/battr-bot">BATTR-BOT</a></h3>
-<p>Puzzle-platformer with a finite power system. You get limited energy - use it wrong and you're stuck. Built solo in Unity.</p>
+<p>Puzzle-platformer with a finite power system. You get limited energy — use it wrong and you're stuck. Built solo in Unity.</p>
 </td>
 <td width="50%" align="center">
 <h3><a href="https://bend1ct.itch.io/tiko-town">Tiko Town</a></h3>
 <p>Co-op 2D platformer. Handled player movement, enemy AI, UI, and WebGL deployment. Live on itch.io and playable in browser.</p>
 </td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3><a href="https://bend1ct.itch.io/blockvsballs">Blocks vs Balls</a></h3>
+<p>Fast-paced arcade puzzle game. Aim, shoot, and break descending blocks before they hit the bottom. Built in Unity.</p>
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
