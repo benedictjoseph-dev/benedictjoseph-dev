@@ -10,7 +10,7 @@
 <div align="left">
 
   <p>
-    I build games in Unity — mostly 2D/3D mobile stuff, with a soft spot for puzzle mechanics and satisfying animations.<br/>
+    I build games in Unity - mostly 2D/3D mobile stuff, with a soft spot for puzzle mechanics and satisfying animations.<br/>
     Got a couple of shipped titles on itch.io, some freelance work across different genres, and currently looking for my next Unity role.
   </p>
   <p>
