@@ -83,6 +83,7 @@
 
 ![Unity Netcode](https://img.shields.io/badge/Unity_Netcode-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Photon](https://img.shields.io/badge/Photon-004FFF?style=for-the-badge&logoColor=white)
+![Mirror](https://img.shields.io/badge/Mirror-1a1a2e?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -98,5 +99,13 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=benedictjoseph-dev&theme=tokyo-night&hide_border=true&area=true&color=70a5fd&line=bf91f3&point=ff9966" alt="Activity Graph" width="100%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benedictjoseph-dev/benedictjoseph-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benedictjoseph-dev/benedictjoseph-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/benedictjoseph-dev/benedictjoseph-dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
