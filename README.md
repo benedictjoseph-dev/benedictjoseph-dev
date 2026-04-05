@@ -8,7 +8,7 @@
 <h3>Unity Game Developer | 2D/3D • Mobile • Puzzle</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
   <p>
     I build games in Unity — mostly 2D/3D mobile stuff, with a soft spot for puzzle mechanics and satisfying animations.<br/>
     Got a couple of shipped titles on itch.io, some freelance work across different genres, and currently looking for my next Unity role.
