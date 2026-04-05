@@ -44,7 +44,7 @@
 <tr>
 <td width="50%" align="center">
 <h3><a href="https://bend1ct.itch.io/battr-bot">BATTR-BOT</a></h3>
-<p>Puzzle-platformer with a finite power system. You get limited energy — use it wrong and you're stuck. Built solo in Unity.</p>
+<p>Puzzle-platformer with a finite power system. You get limited energy - use it wrong and you're stuck. Built solo in Unity.</p>
 </td>
 <td width="50%" align="center">
 <h3><a href="https://bend1ct.itch.io/tiko-town">Tiko Town</a></h3>
